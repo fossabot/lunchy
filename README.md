@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Flunchy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Flunchy?ref=badge_shield)
+
 lunchy
 =================
 
@@ -59,3 +61,7 @@ About
 -----------------
 
 Mike Perham, [@mperham](http://twitter.com/mperham), [mikeperham.com](http://mikeperham.com/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Flunchy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Flunchy?ref=badge_large)
